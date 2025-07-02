@@ -16,7 +16,6 @@
 
 - 2 と N の最小公倍数（LCM）を求めれば良い
 - Pythonでは `math.lcm(2, N)`（または `2*N` if N is even）
-
 ---
 
 ## 自己分析
