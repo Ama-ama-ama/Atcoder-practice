@@ -19,6 +19,13 @@
 
 ---
 
+## 自己分析
+
+- import math の使い方
+- lcm と　gcd　の使い方
+- 
+---
+
 ## 入力例
 import math
 N = int(input())
