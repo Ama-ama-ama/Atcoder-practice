@@ -1,7 +1,5 @@
-A,B,C = map(int,input().split())
+import math 
+N = int(input()) 
+lcm = 2*N // math.gcd(2,N)
 
-D = max(A,B,C) E = min(A,B,C) F = A + B + C - D - E
-
-G = F - E H = D - F
-
-print(G + H)
+print(lcm)
