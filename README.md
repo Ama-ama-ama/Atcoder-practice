@@ -41,7 +41,7 @@ Pythonを使って問題を解き、Markdown形式で解法・気づき・自己
 
 - ABC問題の解法記録
 - Pythonの標準ライブラリを活用した最適化習得
-- 青色（AtCoder rating 1200以上）を目指す
+- 年内目標緑色（AtCoder rating 800以上、2026年目標水色（Atcoder rating 1200以上）、2027年目標青色（Atcoder rating 1600以上）を目指す
 - GitHubに記録する習慣の継続
 
 ---
